@@ -1,0 +1,10 @@
+The available options are the following...
+
+stop         |  Ends the program.
+help         |  Prints help text for the user.
+options      |  Prints out the options that are available.
+report       |  Will ask the user for team report or league report.
+	league | Produce a HTML file containing a report on the league.
+	team   | Produce a HTML file containing a report on a specific team.
+file         |  Will read game data from a file.
+league table | Produce a HTML file containing a league table.

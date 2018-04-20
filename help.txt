@@ -1,0 +1,4 @@
+When inputting data remember to use the correct delimiters
+An Example: Home Team [Home Team Score] | Away Team [Away Team Score]
+- If the delimiters are missing the input is invalid.
+- Only use digits in the scores, no alphabetical characters.
