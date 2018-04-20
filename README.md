@@ -1,0 +1,2 @@
+# Football-Results-Manager
+The Football Results Manager was created as apart of an assessment for the Fundamentals of Computer Programming module in the first year of my degree. you can input data in the format: Home_Team_Name [Home_Team_Score] | Away_Team_Name [Away_Team_Score]. The program is able to validate and store user input and produce output in the form of HTML files containing reports on a specific team or the league in general. 
